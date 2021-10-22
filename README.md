@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ramesh Singh
 - 👀 I’m interested in learning about backend technologies and UI technlogies.
-- 🌱 I’m currently learning angular and AWS ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Angular, AWS, Microservice Architecture.
 
 <!---
 ramesh-singh-20/ramesh-singh-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
